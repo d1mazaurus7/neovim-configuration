@@ -5,7 +5,12 @@ _My Neovim configuration_
 ![Lazy.nvim](https://img.shields.io/badge/manager-lazy.nvim-blue)
 
 </div>
-<img width="2539" height="1349" alt="2" src="https://github.com/user-attachments/assets/f3a8be2d-05c0-4910-abf2-22f264f05a46" /><img width="1628" height="739" alt="3" src="https://github.com/user-attachments/assets/58c99c2f-1f93-485b-9d5d-2c3339006cd4" /><img width="2410" height="1137" alt="4" src="https://github.com/user-attachments/assets/ee5f5a9e-f789-4c69-b24a-557651429bdb" />
+<p align="center">
+  <img width="32%" alt="2" src="https://github.com/user-attachments/assets/f3a8be2d-05c0-4910-abf2-22f264f05a46" />
+  <img width="32%" alt="3" src="https://github.com/user-attachments/assets/58c99c2f-1f93-485b-9d5d-2c3339006cd4" />
+  <img width="32%" alt="4" src="https://github.com/user-attachments/assets/ee5f5a9e-f789-4c69-b24a-557651429bdb" />
+</p>
+
 
 
 
