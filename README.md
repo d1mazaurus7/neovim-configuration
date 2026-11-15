@@ -1,5 +1,4 @@
 <div align="center">
-# nvim-config
 _My Neovim configuration_
   
 ![Neovim](https://img.shields.io/badge/Neovim-0.10+-brightgreen?logo=neovim&logoColor=white)
