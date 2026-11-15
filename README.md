@@ -5,6 +5,7 @@ _My Neovim configuration_
 ![Lazy.nvim](https://img.shields.io/badge/manager-lazy.nvim-blue)
 
 </div>
+<img width="2539" height="1349" alt="2" src="https://github.com/user-attachments/assets/f3a8be2d-05c0-4910-abf2-22f264f05a46" />
 
 ## Plugins:
 | Plugin | Author | What does it do |
